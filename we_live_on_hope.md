@@ -2,7 +2,7 @@ We Live On Hope
 ===============
 
 ### Hope ###
-##/hop/##
+##/h&#333;p/##
 
 *noun*
 
