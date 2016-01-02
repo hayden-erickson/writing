@@ -10,11 +10,11 @@ What I think:
 	effective solution. If we are to survive, we must use this ability to keep 
 	ourselves out of harm's way and ultimately live happier lives. 
 
-		Another trait we have as humans is sympathy[^2]. When we imagine a situation 
+		Another trait we have as humans is sympathy. When we imagine a situation 
 	with a negative outcome, we feel bad because we see ourselves feeling bad or 
 	suffering. When we imagine a situation with a positive outcome, we feel good.
 	Therefore, to make ourselve feel good, we can imagine a positive situation 
-	happening. Hope [^1] then is what allows us to survive as humans. We figure out
+	happening. Hope  then is what allows us to survive as humans. We figure out
 	what it is that would make us the happiest and then we Hope for it to happen.
 	The good feelings that Hope produces create our motivation and drive action.
 	
@@ -38,7 +38,7 @@ What I think:
 
 
 		As a society we use this knowledge to predict our future outcomes that we most desire
-	and plan for them, hope[^1] for them. When we expose enough truths about a given situation,
+	and plan for them, hope  for them. When we expose enough truths about a given situation,
 	its outcome becomes apparent. However, before its discovery, knowing the outcome of that 
 	event would have been to predict the future. If we progress enough as humans, we may learn
 	one day to accurately predict the outcome of our universe and many of its truths. Given 
@@ -51,13 +51,13 @@ What I think:
 
 #### "Facts" ####
 
-[^1]: Hope
+: Hope
 
 *noun*
  1. a feeling of expectation and [desire](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define:+desire) for a certain thing to happen.
  2. a felling of trust
 
- [^2]: Sympathy
+ : Sympathy
 
 *noun*
  1. feelings of pity and sorrow for someone else's misfortune.
