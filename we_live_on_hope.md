@@ -51,13 +51,13 @@ What I think:
 
 #### "Facts" ####
 
-: Hope
+Hope
 
 *noun*
  1. a feeling of expectation and [desire](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define:+desire) for a certain thing to happen.
  2. a felling of trust
 
- : Sympathy
+Sympathy
 
 *noun*
  1. feelings of pity and sorrow for someone else's misfortune.
