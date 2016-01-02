@@ -14,7 +14,7 @@ What I think:
 	with a negative outcome, we feel bad because we see ourselves feeling bad or 
 	suffering. When we imagine a situation with a positive outcome, we feel good.
 	Therefore, to make ourselve feel good, we can imagine a positive situation 
-	happening. Hope[^1] then is what allows us to survive as humans. We figure out
+	happening. Hope [^1] then is what allows us to survive as humans. We figure out
 	what it is that would make us the happiest and then we Hope for it to happen.
 	The good feelings that Hope produces create our motivation and drive action.
 	
@@ -51,13 +51,13 @@ What I think:
 
 #### "Facts" ####
 
-[^1]: ### Hope ###
+[^1]: Hope
 
 *noun*
  1. a feeling of expectation and [desire](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=define:+desire) for a certain thing to happen.
  2. a felling of trust
 
- [^2]: ### Sympathy ###
+ [^2]: Sympathy
 
 *noun*
  1. feelings of pity and sorrow for someone else's misfortune.
