@@ -4,7 +4,7 @@ layout: default
 
 # We Live On Hope
 
-[ Home ](./)
+
 ### What I think: 
 	
 As humans, we are the only species that is able to fabricate a fictional 
@@ -64,3 +64,5 @@ Sympathy
 >*noun*
  >1. feelings of pity and sorrow for someone else's misfortune.
  >2. understanding between people; common feeling.
+
+[Home](./)
