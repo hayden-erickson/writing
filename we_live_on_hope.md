@@ -4,6 +4,7 @@ layout: default
 
 # We Live On Hope
 
+[ Home ](./)
 ### What I think: 
 	
 As humans, we are the only species that is able to fabricate a fictional 
