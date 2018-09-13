@@ -1,4 +1,5 @@
 # writing
 things I don't want to forget
 
-[we live on hope](./we_live_on_hope.html)
+[We live on hope](./we-live-on-hope.html)
+[How can a machine learn?](./how-can-a-machine-learn.html)
