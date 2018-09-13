@@ -1,14 +1,7 @@
----
-layout: default
----
+[Home](./)
 
 # We Live On Hope
 
-[Home](hayden-erickson.github.io/writing)
-
-
-### What I think: 
-	
 As humans, we are the only species that is able to fabricate a fictional 
 situation, follow its actions, and then determine the most efficient and 
 effective solution. If we are to survive, we must use this ability to keep 

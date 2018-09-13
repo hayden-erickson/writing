@@ -1,7 +1,6 @@
+[Home](./)
+
 # One Way To Be Happier
-
-[Home](hayden-erickson.github.io/writing)
-
 
 What is one way to be happier. Do more of what you want to do?
 OK... that's obvious! It's literally a circular definition. 
