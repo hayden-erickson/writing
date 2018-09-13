@@ -1,5 +1,7 @@
 # How Can A Machine Learn?
 
+[Home](./README.html)
+
 
 If we want to understand how a machine learns it is best to start with how we
 learn. Let's say we are trying to cook and we have never made

@@ -1,3 +1,8 @@
+# One Way To Be Happier
+
+[Home](./README.html)
+
+
 What is one way to be happier. Do more of what you want to do?
 OK... that's obvious! It's literally a circular definition. 
 By virtue of wanting something, getting it would make you happier

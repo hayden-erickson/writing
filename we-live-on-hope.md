@@ -4,6 +4,8 @@ layout: default
 
 # We Live On Hope
 
+[Home](./README.html)
+
 
 ### What I think: 
 	
