@@ -4,7 +4,7 @@ layout: default
 
 # We Live On Hope
 
-[Home](./README.html)
+[Home](hayden-erickson.github.io/writing)
 
 
 ### What I think: 

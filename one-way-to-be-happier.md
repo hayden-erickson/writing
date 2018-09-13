@@ -1,6 +1,6 @@
 # One Way To Be Happier
 
-[Home](./README.html)
+[Home](hayden-erickson.github.io/writing)
 
 
 What is one way to be happier. Do more of what you want to do?

@@ -1,6 +1,6 @@
 # How Can A Machine Learn?
 
-[Home](./README.html)
+[Home](hayden-erickson.github.io/writing)
 
 
 If we want to understand how a machine learns it is best to start with how we
