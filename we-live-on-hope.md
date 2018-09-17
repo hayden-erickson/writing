@@ -59,5 +59,3 @@ Sympathy
 >*noun*
  >1. feelings of pity and sorrow for someone else's misfortune.
  >2. understanding between people; common feeling.
-
-[Home](./)
