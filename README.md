@@ -7,7 +7,7 @@
 
 [One way to be happier](./one-way-to-be-happier.html)
 
-[Why vs How](./why-vs-how.html)
+[The impact I want to have on the world](./the-impact-i-want-to-have.html)
 
 ## Machine Learning
 
