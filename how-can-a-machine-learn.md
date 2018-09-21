@@ -121,8 +121,8 @@ sure this is a baked potato." From the programs confidence or likelihood we
 might only keep those images which our program is more than 80% sure about.
 Therefore, if we see an image with a baked potato and our program gives a value
 of 85% then we know our program is off by 15% (100 - 85) because we are 100%
-sure. We now have some measure of how wrong the guess is that our program gave
-us.
+sure the image contains a potato. We now have some measure of how wrong the
+guess is that our program gave us.
 
 Why is this an important thing to know? We have already said that different
 operations on the image lead to a different result. If we change the operations
@@ -191,5 +191,16 @@ final answer will continue to get closer to 100%.
 Alternatively, if we give our program an image that does not contain a potato,
 we would ideally want it to say there is a 0% chance of the image containing a
 potato. We can repeat the same process as before slightly updating the
-operation that we perform on the pixel. 
+operation that we perform on the pixels then divide by the differences.
+Ultimately if we hand our program an image of a potato it should give us a
+score as close to 100% as possible and if we give it an image of a dog we want
+it to be as close to 0% as possible.
+
+This iterative process of slowly updating the operations that we perform on the
+image is called training. Once our program has been trained to recognize baked
+potatoes we could give it new images that it has never seen before and if we
+did a good job our program will give us a high score. Now we can let our
+trained program loose on the internet to find us images of baked potatoes!
+
+
 

@@ -39,10 +39,13 @@ const div = elem => {
 
 const toLabel = ( label ) => {
   var text = document.createElement('label')
-  text.style.backgroundColor = label
-  text.style.color = 'white'
-  text.style.padding = '4px'
-  text.style.borderRadius = '2px'
+
+  Object.assign(text.style, {
+    backgroundColor: label,
+    color: 'white',
+    padding: '4px',
+    borderRadius: '2px'
+  })
 
   text.innerText = label
   return text
@@ -53,6 +56,9 @@ class Slider {
     this.elem = document.createElement('input')
     this.elem.setAttribute('type', 'range')
     this.elem.addEventListener('change', onchange)
+    Object.assign(this.elem.style, {
+      width: '100%'
+    })
     setProps(this.elem, props)
   }
 
@@ -82,7 +88,10 @@ class ColorBox {
       this.elem.append(div(slider.element))
     })
 
-    this.elem.style.padding = '8px'
+    Object.assign(this.elem.style, {
+      padding: '10%',
+    })
+
     this.setBackground()
   }
 
