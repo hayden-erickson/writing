@@ -31,7 +31,7 @@ your body and record its brightness as it comes out the other side. As you
 might imagine, the more stuff the laser goes through the darker it will be as
 it exits your body. For instance shining just through your finger vs your
 chest.
-![alt text](./imgs/single-beam-shadow-radon.gif 'Singe Beam Shadow')
+![alt text](./imgs/single-beam-shadow-2.gif 'Singe Beam Shadow')
 
 This loss in brightness is called attenuation. This literally happens
 because material in your body blocks some of the photons in the beam and is
@@ -39,7 +39,7 @@ exactly like a shadow. If visible light passes through a transparent material
 some light gets through but you still see its shadow. If we scale this idea
 further to multiple beams the shadow analogy becomes even clearer.
 
-![alt text](./imgs/multiple-beam-shadow-radon.gif 'Multiple Beam Shadows')
+![alt text](./imgs/multiple-beam-shadow-2.gif 'Multiple Beam Shadows')
 
 However, this only gives us a 1 dimensional image which is
 not at all helpful. To gather more information we can rotate the beams and
