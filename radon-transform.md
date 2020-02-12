@@ -17,9 +17,10 @@ way to create images (photography). Axial comes into play because we’re
 actually rotating an x ray detector around the body to build up the 3d image.
 The device has an x ray generator on one side of the circular frame and an
 array of sensors directly opposite. The machine spins the generator and the
-sensors in sync as a patient moves through the middle. This technology was so
-groundbreaking that it actually won its creators Allan M Cormack and Godfrey
-Newbold Hounsfield the nobel prize in physiology and medicine in 1979.
+sensors in sync as a patient moves through the middle. We take this stuff for
+granted today, but in 1979 this technology was so groundbreaking that it
+actually won its creators Allan M Cormack and Godfrey Newbold Hounsfield the
+nobel prize in physiology and medicine.
 
 ## Capturing
 
@@ -33,8 +34,9 @@ chest. This loss in brightness is called attenuation. This literally happens
 because material in your body blocks some of the photons in the beam and is
 exactly like a shadow. If visible light passes through a transparent material
 some light gets through but you still see its shadow. If we scale this idea
-further to multiple beams the shadow analogy becomes even clearer (show
-screen capture). However, this only gives us a 1 dimensional image which is
+further to multiple beams the shadow analogy becomes even clearer.
+![alt text](./imgs/radon-shadow-box.png 'beam shadows with box')
+However, this only gives us a 1 dimensional image which is
 not at all helpful. To gather more information we can rotate the beams and
 capture another shadow from the new angle and repeat many times. This
 rotation process creates an image called a sinogram and it looks a lot like a
