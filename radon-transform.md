@@ -48,6 +48,8 @@ rotation process creates an image called a sinogram and it looks a lot like a
 sine wave. The sinogram is just a confusing looking version of the original
 cross section, but all the data we need is there.
 
+![alt text](./imgs/sino-recording.gif 'Sinogram Capture')
+
 ## Reconstructing
 
 By running the entire process in reverse, we can construct an image of the
