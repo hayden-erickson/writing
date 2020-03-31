@@ -2,6 +2,8 @@
 
 # Stretching Time
 
+Here's the video version if you'd rather watch! [video](https://www.youtube.com/watch?v=lXogHNV-H1I)
+
 You've probably heard that the speed of light is constant. You've probably also
 heard of relativity, but how do these two things interact?
 
