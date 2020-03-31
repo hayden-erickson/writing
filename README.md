@@ -1,5 +1,9 @@
 # TOPICS
 
+## Relativity
+
+[Stretching Time](./stretching-time.md)
+
 ## Medical Imaging
 
 [How do CT scans visualize our insides?](http://bit.ly/2UFCLPT)
