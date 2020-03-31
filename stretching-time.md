@@ -92,6 +92,15 @@ tick than ours standing still. As it turns out this difference is not enough to
 account for the discrepancy between what I think you should measure and what
 you actually measure.
 
-- Go into math with pythagorean theorem to show time diff
-- show how speed would differ just by changing this time
-- show how shortened distance needs to account for the rest
+[!alt](https://www.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/Special_relativity_clocks_rods/figures/light_clock_anim_2.gif)
+
+This image shows the difference in ticks between a moving light clock and one
+standing still. You can easily see that the moving clock takes much longer to
+tick. Using the pythagorean theorum we can find out exactly what the difference
+is. This is possible because of the triangle formed by the path of light on the
+moving clock. In the still clock the light only travels 1 meter between each
+mirror. However, in the moving clock, 1 meter is the height of the triangle.
+The width of the triangle increases the faster you go. using the height and the
+width we know the length of the hypotenuse and because light speed is constant,
+we can determine how long it would take light to travel between each mirror.
+That is stretching time!
