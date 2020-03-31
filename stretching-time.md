@@ -94,7 +94,7 @@ tick than ours standing still. As it turns out this difference is not enough to
 account for the discrepancy between what I think you should measure and what
 you actually measure.
 
-[!alt](https://www.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/Special_relativity_clocks_rods/figures/light_clock_anim_2.gif)
+![alt text](https://www.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/Special_relativity_clocks_rods/figures/light_clock_anim_2.gif)
 
 This image shows the difference in ticks between a moving light clock and one
 standing still. You can easily see that the moving clock takes much longer to
